@@ -10,5 +10,5 @@
 4. Create: Design n' Decor - https://modrinth.com/mod/create-design-n-decor
 5. Create: Deco - https://www.curseforge.com/minecraft/mc-mods/create-deco
 6. ComputerCraft: Tweaked - https://modrinth.com/mod/cc-tweaked
-7. ComputerCraft: Computer Energetics
-8. Create: Interoparable
+7. ComputerCraft: Computer Energetics - https://discord.gg/dfxk5T2Bry
+8. Create: Interoperable - https://discord.gg/TPAZxSBr9q
